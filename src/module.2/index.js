@@ -74,9 +74,9 @@ console.log(sum);
 //
 // render(option);
 //
-// function  render({name, age ,width }) {
+// function  render({name: OtherName, age ,width }) {
 //
-//     console.log(name, age ,width);
+//     console.log(OtherName, age ,width);
 // }
 
 // const option = [1, 2 ,3];
